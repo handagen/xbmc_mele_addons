@@ -1,0 +1,24 @@
+- <data>
+  <poster>Family</poster> 
+  <fanart>http://cloud.thelittleblackbox.co.uk/portal/images/family/family.png</fanart> 
+- <dir>
+  <title>Movies</title> 
+  <link>http://portal.thelittleblackbox.com/getXML/?parent=285</link> 
+  <thumbnail>http://cloud.thelittleblackbox.co.uk/portal/images/family/movies.png</thumbnail> 
+  </dir>
+- <dir>
+  <title>TV Shows</title> 
+  <link>http://portal.thelittleblackbox.com/getXML/?parent=286</link> 
+  <thumbnail>http://cloud.thelittleblackbox.co.uk/portal/images/family/tvshows.png</thumbnail> 
+  </dir>
+- <dir>
+  <title>Kids</title> 
+  <link>http://portal.thelittleblackbox.com/getXML/?parent=287</link> 
+  <thumbnail>http://cloud.thelittleblackbox.co.uk/portal/images/family/kids.png</thumbnail> 
+  </dir>
+- <dir>
+  <title>More...</title> 
+  <link>http://portal.thelittleblackbox.com/getXML/?parent=288</link> 
+  <thumbnail>http://cloud.thelittleblackbox.co.uk/portal/images/family/more.png</thumbnail> 
+  </dir>
+  </data>
