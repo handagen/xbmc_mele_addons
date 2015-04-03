@@ -2,31 +2,31 @@
 <dir>
 <title>Movies</title>
 <link>root2movies</link>
-<thumbnail>https://github.com/handagen/xbmc_mele_addons/tree/master/icons/movies.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/handagen/xbmc_mele_addons/master/icons/movies.png</thumbnail>
 </dir>
 <dir>
 <title>TV Shows</title>
 <link>root2tvshows</link>
-<thumbnail>https://github.com/handagen/xbmc_mele_addons/tree/master/icons/tvshows.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/handagen/xbmc_mele_addons/master/icons/tvshows.png</thumbnail>
 </dir>
 <dir>
 <title>Family</title>
 <link>root2family</link>
-<thumbnail>https://github.com/handagen/xbmc_mele_addons/tree/master/icons/family.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/handagen/xbmc_mele_addons/master/icons/family.png</thumbnail>
 </dir>
 <dir>
 <title>Sports</title>
 <link>root2sports</link>
-<thumbnail>https://github.com/handagen/xbmc_mele_addons/tree/master/icons/sports.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/handagen/xbmc_mele_addons/master/icons/sports.png</thumbnail>
 </dir>
 <dir>
 <title>Music</title>
 <link>root2music</link>
-<thumbnail>https://github.com/handagen/xbmc_mele_addons/tree/master/icons/music.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/handagen/xbmc_mele_addons/master/icons/music.png</thumbnail>
 </dir>
 <dir>
 <title>Live TV</title>
 <link>root2livetv</link>
-<thumbnail>https://github.com/handagen/xbmc_mele_addons/tree/master/icons/livetv.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/handagen/xbmc_mele_addons/master/icons/livetv.png</thumbnail>
 </dir>
 </data>
