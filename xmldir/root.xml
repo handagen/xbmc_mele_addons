@@ -2,31 +2,31 @@
 <dir>
 <title>Movies</title>
 <link>root2movies</link>
-<thumbnail>http://cloud.thelittleblackbox.co.uk/portal/images/movies/movies.png</thumbnail>
+<thumbnail>https://github.com/handagen/xbmc_mele_addons/tree/master/icons/movies.png</thumbnail>
 </dir>
 <dir>
 <title>TV Shows</title>
 <link>root2tvshows</link>
-<thumbnail>http://cloud.thelittleblackbox.co.uk/portal/images/tvshows/tvshows.png</thumbnail>
+<thumbnail>https://github.com/handagen/xbmc_mele_addons/tree/master/icons/tvshows.png</thumbnail>
 </dir>
 <dir>
 <title>Family</title>
 <link>root2family</link>
-<thumbnail>http://cloud.thelittleblackbox.co.uk/portal/images/family/family.png</thumbnail>
+<thumbnail>https://github.com/handagen/xbmc_mele_addons/tree/master/icons/family.png</thumbnail>
 </dir>
 <dir>
 <title>Sports</title>
 <link>root2sports</link>
-<thumbnail>http://cloud.thelittleblackbox.co.uk/portal/images/sports/sports.png</thumbnail>
+<thumbnail>https://github.com/handagen/xbmc_mele_addons/tree/master/icons/sports.png</thumbnail>
 </dir>
 <dir>
 <title>Music</title>
 <link>root2music</link>
-<thumbnail>http://cloud.thelittleblackbox.co.uk/portal/images/music/music.png</thumbnail>
+<thumbnail>https://github.com/handagen/xbmc_mele_addons/tree/master/icons/music.png</thumbnail>
 </dir>
 <dir>
 <title>Live TV</title>
 <link>root2livetv</link>
-<thumbnail>http://cloud.thelittleblackbox.co.uk/portal/images/livetv/livetv.png</thumbnail>
+<thumbnail>https://github.com/handagen/xbmc_mele_addons/tree/master/icons/livetv.png</thumbnail>
 </dir>
 </data>
