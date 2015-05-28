@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+<addon id="repository.coode" name="COODE Repository" version="1.0" provider-name="COODE">
+	<extension point="xbmc.addon.repository" name="COODE Repository">
+		<info compressed="false">http://cloud.thelittleblackbox.co.uk/repo/addons.xml</info>
+		<checksum>http://cloud.thelittleblackbox.co.uk/repo/addons.xml.md5</checksum>
+		<datadir zip="true">http://cloud.thelittleblackbox.co.uk/repo/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install TLBB specific Addons</summary>
+		<description>Download and install official TLBB addons.</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="plugin.video.tlbbocs" name="TLBB One Click Setup" version="1.1.2" provider-name="J1nx,whufclee">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">TLBB One Click Setup</summary>
+    <description lang="en">Allows for a complete fresh setup with pre-installed content. These builds are provided by members of the community and will completely wipe any existing setup you have, the TLBB take no responsibility for the content provided. Please read the description of each build before installing, some may contain adult or unsuitable content.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="script.tlbb.m6" name="TLBB Update Service" version="1.0.6" provider-name="tlbb">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.service" library="service.py" start="startup" />
+  <extension point="xbmc.python.script" library="default.py" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">TLBB Update Service</summary>
+    <description lang="en">TLBB Update Service</description>
+     <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="script.tlbb.systemsettings" name="TLBB System Settings" version="1.0.1" provider-name="tlbb">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en"></summary>
+    <description lang="en"></description>
+    <platform>all</platform>
+    <language>en</language>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum></forum>
+    <website></website>
+    <source></source>
+    <email></email>
+  </extension>
+</addon>
+
+<addon id="plugin.program.tlbb.content" name="TLBB content" version="1.2.0" provider-name="tlbb">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.metahandler" version="2.7.0" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video audio executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en"></summary>
+    <description lang="en"></description>
+    <platform></platform>
+    <language>en</language>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <source></source>
+    <email></email>
+  </extension>
+</addon>
+
+<addon id="plugin.video.tlbbwizard" name="TLBB Quick Install Wizard" version="1.0.2" provider-name="J1nx">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">TLBB Wizard</summary>
+    <description lang="en">Easy region based install wizard, based on the amazing Hub Wizard</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="script.tlbb.m3" name="TLBB Update Service" version="1.0.5" provider-name="tlbb">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.service" library="service.py" start="startup" />
+  <extension point="xbmc.python.script" library="default.py" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">TLBB Update Service</summary>
+    <description lang="en">TLBB Update Service</description>
+     <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.tlbbinstaller" name="TLBB Installer" version="1.0.8" provider-name="TLBB">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">en</summary>
+    <description lang="en">Install any plugin or even your own xbmc back up just enter the short-url of the zip</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+</addons>
