@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.coode" name="COODE Repository" version="1.0" provider-name="COODE">
+	<extension point="xbmc.addon.repository" name="COODE Repository">
+		<info compressed="false">https://raw.githubusercontent.com/handagen/xbmc_mele_addons/master/repo/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/handagen/xbmc_mele_addons/master/repo/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/handagen/xbmc_mele_addons/master/repo</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>COODE Addons</summary>
+		<description>this repository is for COODE devces</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
