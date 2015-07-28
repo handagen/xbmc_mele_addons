@@ -1,8 +1,0 @@
-name="can not use"
-
-url="https://raw.githubusercontent.com/handagen/xbmc_mele_addons/master/ANDROID.zip"
-img="https://raw.githubusercontent.com/handagen/xbmc_mele_addons/master/CommonAddon.png"
-fanart="https://raw.githubusercontent.com/lhy046510/XBMC_ITZIP/master/fanart.jpg"
-description="This is the KODI 3rd add-ons Package.  
-WARNING:Packs from outside your region might contain illegal plugins for your region!"
-
