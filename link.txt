@@ -1,4 +1,4 @@
-name="Common"
+name="can not use"
 
 url="https://raw.githubusercontent.com/handagen/xbmc_mele_addons/master/ANDROID.zip"
 img="https://raw.githubusercontent.com/handagen/xbmc_mele_addons/master/CommonAddon.png"
