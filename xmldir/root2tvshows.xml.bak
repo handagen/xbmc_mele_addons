@@ -1,0 +1,34 @@
+<data>
+<poster>TV Shows</poster>
+<fanart>http://cloud.thelittleblackbox.co.uk/portal/images/tvshows/tvshows.png</fanart>
+<dir>
+<title>Genres</title>
+<link>tvshows2genres</link>
+<thumbnail>http://cloud.thelittleblackbox.co.uk/portal/images/tvshows/genres.png</thumbnail>
+</dir>
+<dir>
+<title>Highly Rated</title>
+<link>tvshows2highlyrated</link>
+<thumbnail>http://cloud.thelittleblackbox.co.uk/portal/images/tvshows/rated.png</thumbnail>
+</dir>
+<dir>
+<title>Latest</title>
+<link>tvshows2latest</link>
+<thumbnail>http://cloud.thelittleblackbox.co.uk/portal/images/tvshows/latest.png</thumbnail>
+</dir>
+<dir>
+<title>A-Z</title>
+<link>tvshows2az</link>
+<thumbnail>http://cloud.thelittleblackbox.co.uk/portal/images/tvshows/az.png</thumbnail>
+</dir>
+<dir>
+<title>Most Popular</title>
+<link>tvshows2mostpopular</link>
+<thumbnail>http://cloud.thelittleblackbox.co.uk/portal/images/tvshows/popular.png</thumbnail>
+</dir>
+<dir>
+<title>More..</title>
+<link>tvshows2more</link>
+<thumbnail>http://cloud.thelittleblackbox.co.uk/portal/images/tvshows/more.png</thumbnail>
+</dir>
+</data>

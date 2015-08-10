@@ -1,0 +1,29 @@
+<data>
+<poster>Music</poster>
+<fanart>http://cloud.thelittleblackbox.co.uk/portal/images/music/music.png</fanart>
+<dir>
+<title>Music Videos</title>
+<link>http://portal.thelittleblackbox.com/getXML/?parent=298</link>
+<thumbnail>http://cloud.thelittleblackbox.co.uk/portal/images/music/musicvideos.png</thumbnail>
+</dir>
+<dir>
+<title>Charts</title>
+<link>http://portal.thelittleblackbox.com/getXML/?parent=299</link>
+<thumbnail>http://cloud.thelittleblackbox.co.uk/portal/images/music/charts.png</thumbnail>
+</dir>
+<dir>
+<title>Radio Stations</title>
+<link>http://portal.thelittleblackbox.com/getXML/?parent=300</link>
+<thumbnail>http://cloud.thelittleblackbox.co.uk/portal/images/music/radio.png</thumbnail>
+</dir>
+<dir>
+<title>Podcasts</title>
+<link>http://portal.thelittleblackbox.com/getXML/?parent=301</link>
+<thumbnail>http://cloud.thelittleblackbox.co.uk/portal/images/music/podcasts.png</thumbnail>
+</dir>
+<dir>
+<title>More..</title>
+<link>http://portal.thelittleblackbox.com/getXML/?parent=302</link>
+<thumbnail>http://cloud.thelittleblackbox.co.uk/portal/images/music/more.png</thumbnail>
+</dir>
+</data>
