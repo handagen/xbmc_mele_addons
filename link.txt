@@ -9,7 +9,7 @@ WARNING:Packs from outside your region might contain illegal plugins for your re
 
 name="Common1"
 
-url="https://raw.githubusercontent.com/handagen/xbmc_mele_addons/master/mtaddons.zip"
+url="http://pan.baidu.com/s/1gdGqsIR"
 img="https://raw.githubusercontent.com/handagen/xbmc_mele_addons/master/CommonAddon.png"
 fanart="https://raw.githubusercontent.com/lhy046510/XBMC_ITZIP/master/fanart.jpg"
 description="This is the KODI 3rd add-ons Package.  
