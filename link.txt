@@ -9,7 +9,7 @@ WARNING:Packs from outside your region might contain illegal plugins for your re
 
 name="Common1"
 
-url="http://nj02.poms.baidupcs.com/file/91db912063a0c6d4b060d33b82d660de?bkt=p2-nj02-269&fid=103898714-250528-993851672479704&time=1439209472&sign=FDTAXGERLBH-DCb740ccc5511e5e8fedcff06b081203-%2BYCRMcGwjZ1wuuB5jvNhTFufO%2Fc%3D&to=n2b&fm=Nan,B,T,t&sta_dx=50&sta_cs=0&sta_ft=zip&sta_ct=0&fm2=Nanjing02,B,T,t&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=0000c46ff14ca6d0c6ea7311ff45c99498dc&sl=79822927&expires=8h&rt=sh&r=891384265&mlogid=2617058907&vuk=2987872778&vbdid=256217992&fin=mtaddons.zip&fn=mtaddons.zip&slt=pm&uta=0&rtype=1&iv=0&isw=0"
+url="http://192.168.20.6:8000/nfs/mtaddons.zip"
 img="https://raw.githubusercontent.com/handagen/xbmc_mele_addons/master/CommonAddon.png"
 fanart="https://raw.githubusercontent.com/lhy046510/XBMC_ITZIP/master/fanart.jpg"
 description="This is the KODI 3rd add-ons Package.  
